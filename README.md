@@ -30,7 +30,7 @@ ETAPA 4 : Versión final README.
 
 ARCHIVOS IMPORTANTES El proyecto presenta los siguientes archivos para uso del usuario: README.md con descripción del repositorio, imagenes del mismo y organización.
 
-NOMBRE DE BD: empresa
+NOMBRE DE BASES DE DATOS: empresa
 
 CREATE TABLE `empleado` (
   `id` int(11) NOT NULL,
@@ -46,5 +46,12 @@ CREATE TABLE `empleado` (
 
 
 VALIDACIÓN 
+![prueba  1](https://user-images.githubusercontent.com/89054795/150527585-5ddc98e8-d7c1-41ac-8e35-7b4bfc2f4b3b.png)
 
+REGISTRO EN BASES DE DATOS
+
+![prueba 3](https://user-images.githubusercontent.com/89054795/150527733-f28d5e82-165a-4e03-9d5b-2142e3c62c4b.png)
+
+CALCULO DE EDAD Y VINCULACION
+![prueba4](https://user-images.githubusercontent.com/89054795/150527948-fa3b01cd-3ee9-47c9-8bb6-6f01ee54c0bf.png)
 
