@@ -16,6 +16,8 @@ TECNOLOGÍA Y PATRONES DE DISEÑO EMPLEADO.
 
 .MySQL 
 
+.POSTMAN
+
 PLAN DE TRABAJO : El repositorio se realizó en 1 días y para ello se propuso dividir el proyecto en una serie de etapas que se detallarán a continuación :
 
 ETAPA 1 : Plantear la lógica inicial de los problemas.
